@@ -25,7 +25,7 @@ Her primary research interests include deep learning; multimedia content process
 
 ## Academic Services
 
-* Journal Reviewer
+* **Journal Reviewer**
   * IEEE TMM, TCSVT
 * Conference Reviewer
   * CVPR, ICCV, ICME
