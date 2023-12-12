@@ -28,12 +28,6 @@ Her primary research interests include deep learning; multimedia content process
 
 
 
-# Awards
-
-* 
-* 
-
-
 
 # Academic Services
 
