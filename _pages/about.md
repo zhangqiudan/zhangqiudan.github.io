@@ -12,7 +12,7 @@ Qiudan Zhang is an Assistant Professor of [Computer Science and Software Enginee
 
 Her primary research interests include deep learning; multimedia content processing analysis; 3D visual saliency detection; and depth estimation.
 
-## Professional Experiences
+# Professional Experiences
 
 * 2022.11 – now, Assistant Professor, Shenzhen University
 * 2021.10 – 2022.10, PostDoc, City University of Hong Kong
@@ -27,5 +27,5 @@ Her primary research interests include deep learning; multimedia content process
 
 * **Journal Reviewer**
   * IEEE TMM, TCSVT
-* Conference Reviewer
+* **Conference Reviewer**
   * CVPR, ICCV, ICME
